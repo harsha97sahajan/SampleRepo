@@ -20,8 +20,8 @@ public class ForeachLoop {
 			 System.out.println(s);
 		 }
 		 
-		 int a[][]= {{1,2,3},{3,4,6}};
-	       for(int i[]:a)
+		 int a2[][]= {{1,2,3},{3,4,6}};
+	       for(int i[]:a2)
 	       {
 	    	   for(int j:i)
 	    	   { System.out.print(j+" ");
